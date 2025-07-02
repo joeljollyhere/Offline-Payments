@@ -58,15 +58,27 @@
 * After sending the email it will take the user to the site payment page.
 
 ## Admin View
-* Product: I751
-* Price: 285 USD
+* Product: N600
+* Price: 295 USD
 * Method: Web
 * Orderid:
 
 ## `Order_t`
-![image](https://github.com/user-attachments/assets/1e943952-045c-4b5b-ae6c-e43395efe10e)
+![image](https://github.com/user-attachments/assets/9323fffb-dbcc-4acd-b115-ade158b927bf)
 
 ## `Payment-t`
-![image](https://github.com/user-attachments/assets/b5bca6a5-f97f-453f-8fc5-36a29cc2a5d3)
+![image](https://github.com/user-attachments/assets/bebdd0ed-4be4-4b42-93b7-b0bed0bd7bb9)
 
 # NoCharge
+
+## Admin View
+* Product: I130I485 
+* Price: 395 USD But 0 USD
+* Method: No Payment
+* Orderid: 1293487
+
+## `Order_t`
+![image](https://github.com/user-attachments/assets/26e73b42-1580-49d6-8e65-38ac53c5ef93)
+
+## `Payment_t`
+![image](https://github.com/user-attachments/assets/755206f1-ffe1-4a52-8fd9-e0b7a5c3bb8b)
