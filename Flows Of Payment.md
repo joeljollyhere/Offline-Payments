@@ -43,16 +43,16 @@
 * Used an existing transaction number: `3203582309`
 
 ## Admin View
-* Product: I130
-* Price: 105 USD
-* Method: Offline - Only Transaction Id
+* Product: I485Principal
+* Price: 295 USD
+* Method: Offline - Only Transaction Id was given
 * Orderid: None
 
 ## `Order_t`
-* None
+![image](https://github.com/user-attachments/assets/2814079d-548e-4ca1-b11b-5653552e88bb)
 
 ## `Payment_t`
-* None
+![image](https://github.com/user-attachments/assets/a1ec4274-d0e6-43ec-90c6-dfbdda756cb5)
 
 # Email Invoice
 * After sending the email it will take the user to the site payment page.
